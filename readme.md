@@ -67,9 +67,8 @@
 
 ## ✨ Screenshots
 
-![Screenshot 1](https://via.placeholder.com/600x300.png?text=Chat+Interface)
-![Screenshot 2](https://via.placeholder.com/600x300.png?text=Clipboard+History)
-![Screenshot 3](https://via.placeholder.com/600x300.png?text=File+Transfer+Panel)
+![Screenshot 1]([https://via.placeholder.com/600x300.png?text=Chat+Interface](https://github.com/user-attachments/assets/e8a3b5e2-f910-4f14-9441-b92b85d6785a))
+![Screenshot 2]([https://via.placeholder.com/600x300.png?text=Clipboard+History](https://github.com/user-attachments/assets/3ecedd8c-0a34-404b-b7e2-9254cd189e9f))
 
 ---
 
@@ -84,7 +83,7 @@ We welcome contributions! Fork the repo, create a branch, submit PRs. You can al
 ![BoldReach Logo](https://raw.githubusercontent.com/keshavsharma011/Project-Boldreach/refs/heads/main/Images/Boldreach-logo/boldreach_logo.webp)
 
 **Published by:** **Boldreach Consultancy**  
-**Developed by:** **Gaurakh** and **Keshav**
+**Developed by:** **Keshav** and **Gaurakh**
 
 📧 Contact: [Boldreach](mailto:boldreach.in@gmail.com)
 
