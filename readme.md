@@ -65,10 +65,12 @@
 
 ---
 
-## ✨ Screenshots
+## 📸 GUI Snapshots
 
-![Screenshot 1](https://github.com/user-attachments/assets/e8a3b5e2-f910-4f14-9441-b92b85d6785a)
-![Screenshot 2](https://github.com/user-attachments/assets/3ecedd8c-0a34-404b-b7e2-9254cd189e9f)
+| Chat Interface | Clipboard Sync |
+|----------------|----------------|
+| ![Chat GUI](https://github.com/user-attachments/assets/e8a3b5e2-f910-4f14-9441-b92b85d6785a) | ![Clipboard](https://github.com/user-attachments/assets/3ecedd8c-0a34-404b-b7e2-9254cd189e9f) |
+
 
 ---
 
