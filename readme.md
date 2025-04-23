@@ -69,7 +69,7 @@
 
 | Chat Interface | Clipboard Sync |
 |----------------|----------------|
-| ![Chat GUI](https://github.com/user-attachments/assets/e8a3b5e2-f910-4f14-9441-b92b85d6785a) | ![Clipboard](https://github.com/user-attachments/assets/3ecedd8c-0a34-404b-b7e2-9254cd189e9f) |
+| ![Chat GUI](https://github.com/user-attachments/assets/1137f99e-c5b7-426a-a490-73babf5d92bb) | ![Clipboard](https://github.com/user-attachments/assets/93dcd1e1-6ac6-4b79-af03-a9251fa00f15) |
 
 
 ---
